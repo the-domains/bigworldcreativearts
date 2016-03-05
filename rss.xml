@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Big World Creative Arts]]></title>
         <description><![CDATA[Big World Creative Arts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bigworldcreativearts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 22:30:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 04:17:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bigworldcreativearts/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2efed2e5-d59d-476c-9ad6-ad715539be62.jpg">]]></description>
-            <link>undefined24f6aa57-aaad-4c29-9e11-082348bd1c59/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0535852d-dda7-4a9f-ba90-e56841c10c05.jpg">]]></description>
+            <link>https://thegrid.ai/bigworldcreativearts/24f6aa57-aaad-4c29-9e11-082348bd1c59/index.html</link>
             <guid isPermaLink="false">24f6aa57-aaad-4c29-9e11-082348bd1c59</guid>
-            <pubDate>Fri, 04 Mar 2016 22:30:10 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 04:17:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
